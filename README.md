@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html>
 <body>
 <h> Touchback Rules</h>
@@ -17,5 +17,3 @@
 <p>Section 2
 <p> 2.1: When the ball is lost, the assigned party will retrieve it unless it leaves the property (see 2.2) and the retriever gains possession just like a missed shot each party does 3 retrievals in a row including zipper and the other party takes their turn until the game is over. In the event of a disagreement of who should start, best 2 of 3 rock paper scissors tournament shall take place.
 <p> 2.2: In the event of an accidental ball over the fence scenario both parties shall take responsibility equally in the retrieval of the ball </p>
-</body>
-</html>
